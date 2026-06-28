@@ -1,4 +1,4 @@
-#  Musicana
+#  Musicana - A place for your favorite music
 
 A simple music streaming web application where users can play songs, switch between tracks, and control the music with an easy-to-use interface.
 
